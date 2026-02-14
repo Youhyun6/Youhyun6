@@ -1,4 +1,5 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome&fontColor=ffffff&fontAlignY=38)
+
 
 <!--
 **Youhyun6/Youhyun6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
